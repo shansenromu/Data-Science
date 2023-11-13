@@ -8,5 +8,5 @@ This is the final project for the IBM's Coursea Applied Data Science Capstone Pr
 * [Exploratory Data Analysis with SQL](https://github.com/shansenromu/Data-Science/blob/main/Applied-Data-Science-Capstone/sql-coursera_sqllite.ipynb)
 * [Exploratory Data Analysis with Visualization](https://github.com/shansenromu/Data-Science/blob/main/Applied-Data-Science-Capstone/eda-dataviz.ipynb)
 * [Interactive Visual Analytics and Dashboards](https://github.com/shansenromu/Data-Science/blob/main/Applied-Data-Science-Capstone/spacex_dash_app.py)
-* Machine Learning Prediciton
+* [Machine Learning Prediciton](https://github.com/shansenromu/Data-Science/blob/main/Applied-Data-Science-Capstone/Machine_Learning_Prediction.ipynb)
 * Presentation
