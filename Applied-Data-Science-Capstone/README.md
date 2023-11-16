@@ -10,4 +10,5 @@ This is the final project for the IBM's Coursea Applied Data Science Capstone Pr
 * [Launch Sites Locations Analysis with Folium](https://github.com/shansenromu/Data-Science/blob/main/Applied-Data-Science-Capstone/jupyter_launch_site_location.ipynb)
 * [Interactive Visual Analytics and Dashboards](https://github.com/shansenromu/Data-Science/blob/main/Applied-Data-Science-Capstone/spacex_dash_app.py)
 * [Machine Learning Prediciton](https://github.com/shansenromu/Data-Science/blob/main/Applied-Data-Science-Capstone/SpaceX_Machine_Learning_Prediction.ipynb)
-* Presentation
+* [Presentation](https://github.com/shansenromu/Data-Science/blob/main/Applied-Data-Science-Capstone/ds-capstone.pdf)
+
