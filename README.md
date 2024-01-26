@@ -4,6 +4,12 @@ Personal Data Science Repo  (courses, kraggle, etc.)
 ## Certification
 [Certification](https://github.com/shansenromu/Data-Science/tree/main/Certification)
 
+[Machine Learning Specialization](https://github.com/shansenromu/Data-Science/blob/main/Certification/Machine%20Learning%20Specialization.pdf)
+
+[IBM Data Science Professional Certificate](https://github.com/shansenromu/Data-Science/blob/main/Certification/IBM%20Data%20Science%20Professional%20Certificate.pdf)
+
+and much [more](https://github.com/shansenromu/Data-Science/tree/main/Certification#readme)
+
 ## Courses Projects
 
 Sharing only the peer-reviewed projects from the courses, as instructed by the courses. 
