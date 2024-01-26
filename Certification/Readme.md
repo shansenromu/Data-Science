@@ -1,7 +1,9 @@
 # List of Certification 
 
-
-
+## Machine Learning Specialization
+1. Supervised Machine Learning
+2. Advanced Learning Algorithms
+3. Unsupervised learning, Recommenders, Reinforcement Learning
 
 ## IBM Data Science Professional Certificate
 1. Introduction to Data Science Specialization
