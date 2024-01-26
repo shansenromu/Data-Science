@@ -1,5 +1,5 @@
 # Data-Science
-Personal Data Science Repo  (courses, kraggle, etc.)
+A repository for all things Data Science from course certification, peer-reviewed course projects, kraggle and persoanal projects. 
 
 ## Certification
 [Certification](https://github.com/shansenromu/Data-Science/tree/main/Certification)
@@ -18,4 +18,7 @@ Sharing only the peer-reviewed projects from the courses, as instructed by the c
 Applied Data Science Capstone final project. Includes analysis and visualization of readworld data collected via webscrapping, cleaned and processed using various machine learning models to predict successful Space X launches and presented as an [executive summary](https://github.com/shansenromu/Data-Science/blob/main/Applied-Data-Science-Capstone/ds-capstone.pdf) for a ficitonal SpaceY competetor. 
 
 ### Statistics for Data Science with Python
-A Course in the DS Fundamentals wtih Python and SQL the [Statistics for Data Sciencen with Python](https://github.com/shansenromu/Data-Science/blob/main/Data%20Science%20Fundamentals%20with%20Python%20and%20SQL%20Specialization/Statistics%20for%20Data%20Science%20with%20Python/Statistics%20for%20Data%20Science%20Project.ipynb) is a course that demonstrates inferential statatisitcal analysis and data visualization.
+A course in the DS Fundamentals wtih Python and SQL the [Statistics for Data Sciencen with Python](https://github.com/shansenromu/Data-Science/blob/main/Data%20Science%20Fundamentals%20with%20Python%20and%20SQL%20Specialization/Statistics%20for%20Data%20Science%20with%20Python/Statistics%20for%20Data%20Science%20Project.ipynb) is a course that demonstrates inferential statatisitcal analysis and data visualization.
+
+## Kraggle
+
