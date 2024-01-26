@@ -1,13 +1,13 @@
 # List of Certification 
 
-## Machine Learning Specialization
-1. Supervised Machine Learning
-2. Advanced Learning Algorithms
-3. Unsupervised learning, Recommenders, Reinforcement Learning
+## [Machine Learning Specialization](https://github.com/shansenromu/Data-Science/blob/main/Certification/Machine%20Learning%20Specialization.pdf)
+1. [Supervised Machine Learning: Regression and Classification](https://github.com/shansenromu/Data-Science/blob/main/Certification/Supervised%20Machine%20Learning%20Regression%20and%20Classification%20Course.pdf)
+2. [Advanced Learning Algorithms](https://github.com/shansenromu/Data-Science/blob/main/Certification/Advanced%20Learning%20Algorithms%20Course.pdf)
+3. [Unsupervised learning, Recommenders, Reinforcement Learning](https://github.com/shansenromu/Data-Science/blob/main/Certification/Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning%20Course.pdf)
 
 ## IBM Data Science Professional Certificate
 1. Introduction to Data Science Specialization
-2. Data Scienc eFundamentals with SQL Specialization
+2. Data Science Fundamentals with SQL Specialization
 3. Applied Data Science Specialization
 
 ## Applied Data Science
