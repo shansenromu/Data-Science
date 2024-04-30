@@ -21,4 +21,4 @@ Applied Data Science Capstone final project. Includes analysis and visualization
 A course in the DS Fundamentals wtih Python and SQL the [Statistics for Data Sciencen with Python](https://github.com/shansenromu/Data-Science/blob/main/Data%20Science%20Fundamentals%20with%20Python%20and%20SQL%20Specialization/Statistics%20for%20Data%20Science%20with%20Python/Statistics%20for%20Data%20Science%20Project.ipynb) is a course that demonstrates inferential statatisitcal analysis and data visualization.
 
 ## Kraggle
-
+[Titanic Submission](https://github.com/shansenromu/Data-Science/blob/main/Titanic%20Kaggle.ipynb)
